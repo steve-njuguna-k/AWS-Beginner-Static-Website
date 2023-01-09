@@ -11,5 +11,7 @@ index.html - The Index document for the website.
 
 Project URLS:
 Main Site Access URL - http://jambo-tours-and-travels.s3-website-us-east-1.amazonaws.com/
+
 CloudFront URL - https://d6kwe6q88uir6.cloudfront.net/
+
 S3 Object URL - http://jambo-tours-and-travels.s3.amazonaws.com/index.html
